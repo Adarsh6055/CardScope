@@ -1,4 +1,4 @@
-# Credit-Card-Transaction-Analysis-
+# CardScope-
 An end-to-end business intelligence project to analyze credit card transactions with a focus on revenue, transaction types, customer demographics, and fraud detection. Uses SQL and Excel for data processing and Power BI for interactive visualization—without Python.
 
 
